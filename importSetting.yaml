@@ -1,0 +1,7 @@
+settings:
+    #入力ファイルのパス
+    input_file : "C:\\Users\\TakahashiTakahiro\\Documents\\work\\MD_Import\\sample_requirements.md"
+    # 作成するJamaアイテムの itemType ID
+    itemType : 140    #	STD ASE User Requirements
+    # インポートするJama　Projectの　ID
+    project_id : 132  # Test project
