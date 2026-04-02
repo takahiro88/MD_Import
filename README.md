@@ -28,7 +28,6 @@ MD_Import/
 - Python 3.12+
 - 必要なライブラリ:
   ```
-  py-jama-rest-client
   PyYAML
   markdown
   urllib3
@@ -50,7 +49,7 @@ python -m venv .venv
 # source .venv/bin/activate  # macOS/Linux
 
 # 必要なライブラリのインストール
-pip install py-jama-rest-client PyYAML markdown urllib3
+pip install PyYAML markdown urllib3
 ```
 
 ### 2. 環境変数の設定
